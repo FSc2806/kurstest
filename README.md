@@ -6,3 +6,5 @@ was auch immer
 jetzt schreiben wir noch eine Zeile hinzu oder was auh immer
 Wir arbeiten einfach an lokalen Datein, die sollten wir auch mal speichern
 jetzt lösche
+
+noch eine Änderung auf der Website also ich mache wieder ein Commit
